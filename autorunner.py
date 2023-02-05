@@ -1,6 +1,6 @@
 import os
 
-argsPart2 = [
+argsExamples = [
     "Examples/S1.txt", "Examples/S2.txt", "Examples/S3.txt", "Examples/S4.txt", "Examples/S5.txt"
     ]
 
@@ -26,7 +26,7 @@ argsPart3L24 = [
     ]
 
 #Part 2
-for arg in argsPart2:
+for arg in argsExamples:
     print("_____________Processing_" + arg + "____________")
     os.system("python Run.py {} BFS".format(arg))
     print("     >BFS Complete")
