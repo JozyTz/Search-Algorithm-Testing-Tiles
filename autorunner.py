@@ -1,7 +1,7 @@
 import os
 
 argsPart2 = [
-    "Part2/S1.txt", "Part2/S2.txt", "Part2/S3.txt", "Part2/S4.txt", "Part2/S5.txt"
+    "Examples/S1.txt", "Examples/S2.txt", "Examples/S3.txt", "Examples/S4.txt", "Examples/S5.txt"
     ]
 
 argsPart3L8 = [
