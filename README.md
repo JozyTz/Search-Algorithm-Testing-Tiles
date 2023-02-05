@@ -1,8 +1,11 @@
 # Search-Algorithm-Testing-Tiles
 
 Uses various search algorithms to solve a tile puzzle and formats the results to read.
+
 *Breadth-First search
+
 *Iterative Deepening DFS
+
 *A-star with heuristics:
   - number of misplaced pieces
   - manhattan distances from goal state
