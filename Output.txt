@@ -1,0 +1,2655 @@
+
+
+------------------------------
+
+Running BFS on S1
+Total nodes visited: 289514
+Total time taken: 5 sec 544184 microsec
+Path Length: 24
+Path:  DDLUULDRRULLDRRDLLURRULL
+
+------------------------------
+
+Running IDS on S1
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running h1 on S1
+Total nodes visited: 44481
+Total time taken: 1 sec 888979 microsec
+Path Length: 24
+Path:  DDLUULDRRULLDRRDLLURRULL
+
+------------------------------
+
+Running h2 on S1
+Total nodes visited: 2496
+Total time taken: 0 sec 136633 microsec
+Path Length: 24
+Path:  DDLUULDRRULLDRRDLLURRULL
+
+------------------------------
+
+Running h3 on S1
+Total nodes visited: 3814
+Total time taken: 0 sec 220406 microsec
+Path Length: 24
+Path:  DDLUULDRRULLDRRDLLURRULL
+
+------------------------------
+
+Running BFS on S2
+Total nodes visited: 78694
+Total time taken: 1 sec 414248 microsec
+Path Length: 20
+Path:  DDLLURULDRRDLLURRULL
+
+------------------------------
+
+Running IDS on S2
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running h1 on S2
+Total nodes visited: 4555
+Total time taken: 0 sec 181485 microsec
+Path Length: 20
+Path:  DDLLURULDRRDLLURRULL
+
+------------------------------
+
+Running h2 on S2
+Total nodes visited: 151
+Total time taken: 0 sec 8010 microsec
+Path Length: 20
+Path:  DDLLURULDRRDLLURRULL
+
+------------------------------
+
+Running h3 on S2
+Total nodes visited: 274
+Total time taken: 0 sec 15958 microsec
+Path Length: 20
+Path:  DDLLURULDRRDLLURRULL
+
+------------------------------
+The inputted puzzle is not solvable:
+7 5 2 
+6 3 1 
+4 8 _ 
+------------------------------
+The inputted puzzle is not solvable:
+7 5 2 
+6 3 1 
+4 8 _ 
+------------------------------
+The inputted puzzle is not solvable:
+7 5 2 
+6 3 1 
+4 8 _ 
+------------------------------
+The inputted puzzle is not solvable:
+7 5 2 
+6 3 1 
+4 8 _ 
+------------------------------
+The inputted puzzle is not solvable:
+7 5 2 
+6 3 1 
+4 8 _ 
+------------------------------
+
+Running BFS on S4
+Total nodes visited: 519146
+Total time taken: 9 sec 547449 microsec
+Path Length: 31
+Path:  RDLDLURULDRRDLLURURDDLUURDDLULU
+
+------------------------------
+
+Running IDS on S4
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running h1 on S4
+Total nodes visited: 2079701
+Total time taken: 99 sec 683545 microsec
+Path Length: 31
+Path:  LDDRRUULLDRRULLDRDLURDRUULLDRUL
+
+------------------------------
+
+Running h2 on S4
+Total nodes visited: 45816
+Total time taken: 2 sec 577111 microsec
+Path Length: 31
+Path:  RDLULDDRURULLDDRRUULLDRDRUULDLU
+
+------------------------------
+
+Running h3 on S4
+Total nodes visited: 107627
+Total time taken: 6 sec 718046 microsec
+Path Length: 31
+Path:  LDDRRUULLDRRULLDRDLURDRUULLDRUL
+
+------------------------------
+
+Running BFS on S5
+Total nodes visited: 77
+Total time taken: 0 sec 999 microsec
+Path Length: 6
+Path:  RDLUUL
+
+------------------------------
+
+Running IDS on S5
+Total nodes visited: 801
+Total time taken: 0 sec 5986 microsec
+Path Length: 6
+Path:  RDLUUL
+
+------------------------------
+
+Running h1 on S5
+Total nodes visited: 10
+Total time taken: 0 sec 0 microsec
+Path Length: 6
+Path:  RDLUUL
+
+------------------------------
+
+Running h2 on S5
+Total nodes visited: 9
+Total time taken: 0 sec 1022 microsec
+Path Length: 6
+Path:  RDLUUL
+
+------------------------------
+
+Running h3 on S5
+Total nodes visited: 9
+Total time taken: 0 sec 997 microsec
+Path Length: 6
+Path:  RDLUUL
+
+------------------------------
+==============================
+
+Running BFS on 152
+Total nodes visited: 160
+Total time taken: 0 sec 2995 microsec
+Path Length: 8
+Path:  LLURRULL
+
+------------------------------
+
+Running BFS on 154
+Total nodes visited: 160
+Total time taken: 0 sec 2993 microsec
+Path Length: 8
+Path:  LLDRRULL
+
+------------------------------
+
+Running BFS on 158
+Total nodes visited: 252
+Total time taken: 0 sec 4984 microsec
+Path Length: 8
+Path:  LDRURULL
+
+------------------------------
+
+Running BFS on 160
+Total nodes visited: 256
+Total time taken: 0 sec 4987 microsec
+Path Length: 8
+Path:  ULURDLUL
+
+------------------------------
+
+Running BFS on 164
+Total nodes visited: 273
+Total time taken: 0 sec 3989 microsec
+Path Length: 8
+Path:  DDRRUULL
+
+------------------------------
+
+Running BFS on 193
+Total nodes visited: 229
+Total time taken: 0 sec 3991 microsec
+Path Length: 8
+Path:  RULLDRUL
+
+------------------------------
+
+Running BFS on 195
+Total nodes visited: 235
+Total time taken: 0 sec 4017 microsec
+Path Length: 8
+Path:  ULLURDLU
+
+------------------------------
+
+Running BFS on 198
+Total nodes visited: 203
+Total time taken: 0 sec 2992 microsec
+Path Length: 8
+Path:  RULURDLU
+
+------------------------------
+
+Running BFS on 208
+Total nodes visited: 197
+Total time taken: 0 sec 4016 microsec
+Path Length: 8
+Path:  LULDRUUL
+
+------------------------------
+
+Running BFS on 210
+Total nodes visited: 199
+Total time taken: 0 sec 3989 microsec
+Path Length: 8
+Path:  RDLDRUUL
+
+------------------------------
+
+Running BFS on 224
+Total nodes visited: 253
+Total time taken: 0 sec 4986 microsec
+Path Length: 8
+Path:  URURDLLU
+
+------------------------------
+
+Running BFS on 225
+Total nodes visited: 254
+Total time taken: 0 sec 4986 microsec
+Path Length: 8
+Path:  DRURDLLU
+
+------------------------------
+
+Running BFS on 234
+Total nodes visited: 227
+Total time taken: 0 sec 3988 microsec
+Path Length: 8
+Path:  ULLDRULU
+
+------------------------------
+
+Running BFS on 236
+Total nodes visited: 164
+Total time taken: 0 sec 2992 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running BFS on 238
+Total nodes visited: 197
+Total time taken: 0 sec 3991 microsec
+Path Length: 8
+Path:  RDLDRULU
+
+------------------------------
+
+Running BFS on 239
+Total nodes visited: 174
+Total time taken: 0 sec 2989 microsec
+Path Length: 8
+Path:  LLDDRULU
+
+------------------------------
+
+Running BFS on 250
+Total nodes visited: 223
+Total time taken: 0 sec 3987 microsec
+Path Length: 8
+Path:  URRDLLUU
+
+------------------------------
+
+Running BFS on 253
+Total nodes visited: 178
+Total time taken: 0 sec 3015 microsec
+Path Length: 8
+Path:  RURDLLUU
+
+------------------------------
+
+Running BFS on 256
+Total nodes visited: 170
+Total time taken: 0 sec 3992 microsec
+Path Length: 8
+Path:  RRDDLLUU
+
+------------------------------
+
+Running BFS on 258
+Total nodes visited: 164
+Total time taken: 0 sec 2991 microsec
+Path Length: 8
+Path:  RRULDLUU
+
+------------------------------
+
+Running IDS on 152
+Total nodes visited: 3419
+Total time taken: 0 sec 25933 microsec
+Path Length: 8
+Path:  LLURRULL
+
+------------------------------
+
+Running IDS on 154
+Total nodes visited: 3419
+Total time taken: 0 sec 25902 microsec
+Path Length: 8
+Path:  LLDRRULL
+
+------------------------------
+
+Running IDS on 158
+Total nodes visited: 8695
+Total time taken: 0 sec 65823 microsec
+Path Length: 8
+Path:  LDRURULL
+
+------------------------------
+
+Running IDS on 160
+Total nodes visited: 5780
+Total time taken: 0 sec 43910 microsec
+Path Length: 8
+Path:  ULURDLUL
+
+------------------------------
+
+Running IDS on 164
+Total nodes visited: 6087
+Total time taken: 0 sec 47842 microsec
+Path Length: 8
+Path:  DDRRUULL
+
+------------------------------
+
+Running IDS on 193
+Total nodes visited: 6889
+Total time taken: 0 sec 52830 microsec
+Path Length: 8
+Path:  RULLDRUL
+
+------------------------------
+
+Running IDS on 195
+Total nodes visited: 5389
+Total time taken: 0 sec 41859 microsec
+Path Length: 8
+Path:  ULLURDLU
+
+------------------------------
+
+Running IDS on 198
+Total nodes visited: 4219
+Total time taken: 0 sec 32883 microsec
+Path Length: 8
+Path:  RULURDLU
+
+------------------------------
+
+Running IDS on 208
+Total nodes visited: 4153
+Total time taken: 0 sec 32880 microsec
+Path Length: 8
+Path:  LULDRUUL
+
+------------------------------
+
+Running IDS on 210
+Total nodes visited: 4153
+Total time taken: 0 sec 31913 microsec
+Path Length: 8
+Path:  RDLDRUUL
+
+------------------------------
+
+Running IDS on 224
+Total nodes visited: 5773
+Total time taken: 0 sec 43886 microsec
+Path Length: 8
+Path:  URURDLLU
+
+------------------------------
+
+Running IDS on 225
+Total nodes visited: 5773
+Total time taken: 0 sec 44907 microsec
+Path Length: 8
+Path:  DRURDLLU
+
+------------------------------
+
+Running IDS on 234
+Total nodes visited: 5316
+Total time taken: 0 sec 40890 microsec
+Path Length: 8
+Path:  ULLDRULU
+
+------------------------------
+
+Running IDS on 236
+Total nodes visited: 3479
+Total time taken: 0 sec 26928 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running IDS on 238
+Total nodes visited: 4146
+Total time taken: 0 sec 31913 microsec
+Path Length: 8
+Path:  RDLDRULU
+
+------------------------------
+
+Running IDS on 239
+Total nodes visited: 3561
+Total time taken: 0 sec 27925 microsec
+Path Length: 8
+Path:  LLDDRULU
+
+------------------------------
+
+Running IDS on 250
+Total nodes visited: 5015
+Total time taken: 0 sec 37900 microsec
+Path Length: 8
+Path:  URRDLLUU
+
+------------------------------
+
+Running IDS on 253
+Total nodes visited: 3845
+Total time taken: 0 sec 29922 microsec
+Path Length: 8
+Path:  RURDLLUU
+
+------------------------------
+
+Running IDS on 256
+Total nodes visited: 2967
+Total time taken: 0 sec 22939 microsec
+Path Length: 8
+Path:  RRDDLLUU
+
+------------------------------
+
+Running IDS on 258
+Total nodes visited: 2894
+Total time taken: 0 sec 22938 microsec
+Path Length: 8
+Path:  RRULDLUU
+
+------------------------------
+
+Running h1 on 152
+Total nodes visited: 10
+Total time taken: 0 sec 998 microsec
+Path Length: 8
+Path:  LLURRULL
+
+------------------------------
+
+Running h1 on 154
+Total nodes visited: 23
+Total time taken: 0 sec 1025 microsec
+Path Length: 8
+Path:  LLDRRULL
+
+------------------------------
+
+Running h1 on 158
+Total nodes visited: 20
+Total time taken: 0 sec 1000 microsec
+Path Length: 8
+Path:  LDRURULL
+
+------------------------------
+
+Running h1 on 160
+Total nodes visited: 21
+Total time taken: 0 sec 998 microsec
+Path Length: 8
+Path:  ULURDLUL
+
+------------------------------
+
+Running h1 on 164
+Total nodes visited: 10
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  DDRRUULL
+
+------------------------------
+
+Running h1 on 193
+Total nodes visited: 25
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  RULLDRUL
+
+------------------------------
+
+Running h1 on 195
+Total nodes visited: 21
+Total time taken: 0 sec 1027 microsec
+Path Length: 8
+Path:  ULLURDLU
+
+------------------------------
+
+Running h1 on 198
+Total nodes visited: 24
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  RULURDLU
+
+------------------------------
+
+Running h1 on 208
+Total nodes visited: 19
+Total time taken: 0 sec 1001 microsec
+Path Length: 8
+Path:  LULDRUUL
+
+------------------------------
+
+Running h1 on 210
+Total nodes visited: 29
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  RDLDRUUL
+
+------------------------------
+
+Running h1 on 224
+Total nodes visited: 19
+Total time taken: 0 sec 998 microsec
+Path Length: 8
+Path:  URURDLLU
+
+------------------------------
+
+Running h1 on 225
+Total nodes visited: 29
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  DRURDLLU
+
+------------------------------
+
+Running h1 on 234
+Total nodes visited: 18
+Total time taken: 0 sec 996 microsec
+Path Length: 8
+Path:  ULLDRULU
+
+------------------------------
+
+Running h1 on 236
+Total nodes visited: 21
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running h1 on 238
+Total nodes visited: 24
+Total time taken: 0 sec 993 microsec
+Path Length: 8
+Path:  RDLDRULU
+
+------------------------------
+
+Running h1 on 239
+Total nodes visited: 18
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  LLDDRULU
+
+------------------------------
+
+Running h1 on 250
+Total nodes visited: 15
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  URRDLLUU
+
+------------------------------
+
+Running h1 on 253
+Total nodes visited: 24
+Total time taken: 0 sec 999 microsec
+Path Length: 8
+Path:  RURDLLUU
+
+------------------------------
+
+Running h1 on 256
+Total nodes visited: 10
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  RRDDLLUU
+
+------------------------------
+
+Running h1 on 258
+Total nodes visited: 20
+Total time taken: 0 sec 1025 microsec
+Path Length: 8
+Path:  RRULDLUU
+
+------------------------------
+
+Running h2 on 152
+Total nodes visited: 9
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  LLURRULL
+
+------------------------------
+
+Running h2 on 154
+Total nodes visited: 9
+Total time taken: 0 sec 1001 microsec
+Path Length: 8
+Path:  LLDRRULL
+
+------------------------------
+
+Running h2 on 158
+Total nodes visited: 13
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  LDRURULL
+
+------------------------------
+
+Running h2 on 160
+Total nodes visited: 17
+Total time taken: 0 sec 1026 microsec
+Path Length: 8
+Path:  ULURDLUL
+
+------------------------------
+
+Running h2 on 164
+Total nodes visited: 9
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  DDRRUULL
+
+------------------------------
+
+Running h2 on 193
+Total nodes visited: 11
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  RULLDRUL
+
+------------------------------
+
+Running h2 on 195
+Total nodes visited: 14
+Total time taken: 0 sec 992 microsec
+Path Length: 8
+Path:  ULLURDLU
+
+------------------------------
+
+Running h2 on 198
+Total nodes visited: 14
+Total time taken: 0 sec 968 microsec
+Path Length: 8
+Path:  RULURDLU
+
+------------------------------
+
+Running h2 on 208
+Total nodes visited: 11
+Total time taken: 0 sec 1025 microsec
+Path Length: 8
+Path:  LULDRUUL
+
+------------------------------
+
+Running h2 on 210
+Total nodes visited: 16
+Total time taken: 0 sec 1025 microsec
+Path Length: 8
+Path:  RDLDRUUL
+
+------------------------------
+
+Running h2 on 224
+Total nodes visited: 14
+Total time taken: 0 sec 998 microsec
+Path Length: 8
+Path:  URURDLLU
+
+------------------------------
+
+Running h2 on 225
+Total nodes visited: 16
+Total time taken: 0 sec 1026 microsec
+Path Length: 8
+Path:  DRURDLLU
+
+------------------------------
+
+Running h2 on 234
+Total nodes visited: 10
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  ULLDRULU
+
+------------------------------
+
+Running h2 on 236
+Total nodes visited: 17
+Total time taken: 0 sec 995 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running h2 on 238
+Total nodes visited: 10
+Total time taken: 0 sec 1018 microsec
+Path Length: 8
+Path:  RDLDRULU
+
+------------------------------
+
+Running h2 on 239
+Total nodes visited: 11
+Total time taken: 0 sec 996 microsec
+Path Length: 8
+Path:  LLDDRULU
+
+------------------------------
+
+Running h2 on 250
+Total nodes visited: 10
+Total time taken: 0 sec 985 microsec
+Path Length: 8
+Path:  URRDLLUU
+
+------------------------------
+
+Running h2 on 253
+Total nodes visited: 15
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  RURDLLUU
+
+------------------------------
+
+Running h2 on 256
+Total nodes visited: 9
+Total time taken: 0 sec 994 microsec
+Path Length: 8
+Path:  RRDDLLUU
+
+------------------------------
+
+Running h2 on 258
+Total nodes visited: 13
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  RRULDLUU
+
+------------------------------
+
+Running h3 on 152
+Total nodes visited: 9
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  LLURRULL
+
+------------------------------
+
+Running h3 on 154
+Total nodes visited: 9
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  LLDRRULL
+
+------------------------------
+
+Running h3 on 158
+Total nodes visited: 13
+Total time taken: 0 sec 998 microsec
+Path Length: 8
+Path:  LDRURULL
+
+------------------------------
+
+Running h3 on 160
+Total nodes visited: 17
+Total time taken: 0 sec 1021 microsec
+Path Length: 8
+Path:  ULURDLUL
+
+------------------------------
+
+Running h3 on 164
+Total nodes visited: 9
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  DDRRUULL
+
+------------------------------
+
+Running h3 on 193
+Total nodes visited: 11
+Total time taken: 0 sec 998 microsec
+Path Length: 8
+Path:  RULLDRUL
+
+------------------------------
+
+Running h3 on 195
+Total nodes visited: 14
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  ULLURDLU
+
+------------------------------
+
+Running h3 on 198
+Total nodes visited: 14
+Total time taken: 0 sec 1995 microsec
+Path Length: 8
+Path:  RULURDLU
+
+------------------------------
+
+Running h3 on 208
+Total nodes visited: 11
+Total time taken: 0 sec 997 microsec
+Path Length: 8
+Path:  LULDRUUL
+
+------------------------------
+
+Running h3 on 210
+Total nodes visited: 16
+Total time taken: 0 sec 1026 microsec
+Path Length: 8
+Path:  RDLDRUUL
+
+------------------------------
+
+Running h3 on 224
+Total nodes visited: 14
+Total time taken: 0 sec 1028 microsec
+Path Length: 8
+Path:  URURDLLU
+
+------------------------------
+
+Running h3 on 225
+Total nodes visited: 16
+Total time taken: 0 sec 1029 microsec
+Path Length: 8
+Path:  DRURDLLU
+
+------------------------------
+
+Running h3 on 234
+Total nodes visited: 10
+Total time taken: 0 sec 1003 microsec
+Path Length: 8
+Path:  ULLDRULU
+
+------------------------------
+
+Running h3 on 236
+Total nodes visited: 17
+Total time taken: 0 sec 996 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running h3 on 238
+Total nodes visited: 10
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  RDLDRULU
+
+------------------------------
+
+Running h3 on 239
+Total nodes visited: 11
+Total time taken: 0 sec 996 microsec
+Path Length: 8
+Path:  LLDDRULU
+
+------------------------------
+
+Running h3 on 250
+Total nodes visited: 10
+Total time taken: 0 sec 1006 microsec
+Path Length: 8
+Path:  URRDLLUU
+
+------------------------------
+
+Running h3 on 253
+Total nodes visited: 15
+Total time taken: 0 sec 1024 microsec
+Path Length: 8
+Path:  RURDLLUU
+
+------------------------------
+
+Running h3 on 256
+Total nodes visited: 9
+Total time taken: 0 sec 0 microsec
+Path Length: 8
+Path:  RRDDLLUU
+
+------------------------------
+
+Running h3 on 258
+Total nodes visited: 13
+Total time taken: 0 sec 1026 microsec
+Path Length: 8
+Path:  RRULDLUU
+
+------------------------------
+
+Running BFS on 4767
+Total nodes visited: 8144
+Total time taken: 0 sec 140621 microsec
+Path Length: 15
+Path:  DLLURRDLLURRULL
+
+------------------------------
+
+Running BFS on 4768
+Total nodes visited: 7117
+Total time taken: 0 sec 125664 microsec
+Path Length: 15
+Path:  LDLURRDLLURRULL
+
+------------------------------
+
+Running BFS on 4771
+Total nodes visited: 9186
+Total time taken: 0 sec 158551 microsec
+Path Length: 15
+Path:  ULLDRRDLLURRULL
+
+------------------------------
+
+Running BFS on 4773
+Total nodes visited: 7789
+Total time taken: 0 sec 135638 microsec
+Path Length: 15
+Path:  RULDRRDLLURRULL
+
+------------------------------
+
+Running BFS on 4775
+Total nodes visited: 6356
+Total time taken: 0 sec 111700 microsec
+Path Length: 15
+Path:  RDLDRULDLURRULL
+
+------------------------------
+
+Running BFS on 4778
+Total nodes visited: 9004
+Total time taken: 0 sec 153617 microsec
+Path Length: 15
+Path:  DLDRURDLLURRULL
+
+------------------------------
+
+Running BFS on 4780
+Total nodes visited: 6568
+Total time taken: 0 sec 116716 microsec
+Path Length: 15
+Path:  RRULDRDLLURRULL
+
+------------------------------
+
+Running BFS on 4784
+Total nodes visited: 6568
+Total time taken: 0 sec 116716 microsec
+Path Length: 15
+Path:  LLURDRDLLURRULL
+
+------------------------------
+
+Running BFS on 4789
+Total nodes visited: 9302
+Total time taken: 0 sec 157607 microsec
+Path Length: 15
+Path:  ULURRDDLLURRULL
+
+------------------------------
+
+Running BFS on 4793
+Total nodes visited: 7601
+Total time taken: 0 sec 131675 microsec
+Path Length: 15
+Path:  LURURDDLLURRULL
+
+------------------------------
+
+Running BFS on 4798
+Total nodes visited: 8900
+Total time taken: 0 sec 153589 microsec
+Path Length: 15
+Path:  ULDRRULDLURRULL
+
+------------------------------
+
+Running BFS on 4800
+Total nodes visited: 7825
+Total time taken: 0 sec 134638 microsec
+Path Length: 15
+Path:  LDDRRULDLURRULL
+
+------------------------------
+
+Running BFS on 5108
+Total nodes visited: 9646
+Total time taken: 0 sec 165557 microsec
+Path Length: 15
+Path:  URDRDLULDRRUULL
+
+------------------------------
+
+Running BFS on 5109
+Total nodes visited: 9508
+Total time taken: 0 sec 162562 microsec
+Path Length: 15
+Path:  URRDDLULDRRUULL
+
+------------------------------
+
+Running BFS on 5115
+Total nodes visited: 8653
+Total time taken: 0 sec 148629 microsec
+Path Length: 15
+Path:  DLURULDLDRRUULL
+
+------------------------------
+
+Running BFS on 5120
+Total nodes visited: 7041
+Total time taken: 0 sec 127686 microsec
+Path Length: 15
+Path:  RDRUULDLDRRUULL
+
+------------------------------
+
+Running BFS on 5123
+Total nodes visited: 6285
+Total time taken: 0 sec 112730 microsec
+Path Length: 15
+Path:  RDLLURDLDRRUULL
+
+------------------------------
+
+Running BFS on 5126
+Total nodes visited: 9418
+Total time taken: 0 sec 161595 microsec
+Path Length: 15
+Path:  ULLDRULDDRRUULL
+
+------------------------------
+
+Running BFS on 5127
+Total nodes visited: 8476
+Total time taken: 0 sec 145611 microsec
+Path Length: 15
+Path:  DLLUURDLDRRUULL
+
+------------------------------
+
+Running BFS on 5130
+Total nodes visited: 10176
+Total time taken: 0 sec 172567 microsec
+Path Length: 15
+Path:  DDLUURDLDRRUULL
+
+------------------------------
+
+Running IDS on 4767
+Total nodes visited: 10389032
+Total time taken: 78 sec 657775 microsec
+Path Length: 15
+Path:  DLLURRDLLURRULL
+
+------------------------------
+
+Running IDS on 4768
+Total nodes visited: 7992287
+Total time taken: 59 sec 684458 microsec
+Path Length: 15
+Path:  LDLURRDLLURRULL
+
+------------------------------
+
+Running IDS on 4771
+Total nodes visited: 12785777
+Total time taken: 96 sec 636715 microsec
+Path Length: 15
+Path:  ULLDRRDLLURRULL
+
+------------------------------
+
+Running IDS on 4773
+Total nodes visited: 9190659
+Total time taken: 69 sec 324666 microsec
+Path Length: 15
+Path:  RULDRRDLLURRULL
+
+------------------------------
+
+Running IDS on 4775
+Total nodes visited: 6658161
+Total time taken: 49 sec 886652 microsec
+Path Length: 15
+Path:  RDLDRULDLURRULL
+
+------------------------------
+
+Running IDS on 4778
+Total nodes visited: 11812099
+Total time taken: 89 sec 266418 microsec
+Path Length: 15
+Path:  DLDRURDLLURRULL
+
+------------------------------
+
+Running IDS on 4780
+Total nodes visited: 6119830
+Total time taken: 45 sec 997076 microsec
+Path Length: 15
+Path:  RRULDRDLLURRULL
+
+------------------------------
+
+Running IDS on 4784
+Total nodes visited: 7318202
+Total time taken: 55 sec 427870 microsec
+Path Length: 15
+Path:  LLURDRDLLURRULL
+
+------------------------------
+
+Running IDS on 4789
+Total nodes visited: 12055518
+Total time taken: 90 sec 690584 microsec
+Path Length: 15
+Path:  ULURRDDLLURRULL
+
+------------------------------
+
+Running IDS on 4793
+Total nodes visited: 9209383
+Total time taken: 69 sec 47405 microsec
+Path Length: 15
+Path:  LURURDDLLURRULL
+
+------------------------------
+
+Running IDS on 4798
+Total nodes visited: 11751244
+Total time taken: 88 sec 128433 microsec
+Path Length: 15
+Path:  ULDRRULDLURRULL
+
+------------------------------
+
+Running IDS on 4800
+Total nodes visited: 9354499
+Total time taken: 70 sec 196364 microsec
+Path Length: 15
+Path:  LDDRRULDLURRULL
+
+------------------------------
+
+Running IDS on 5108
+Total nodes visited: 13013140
+Total time taken: 97 sec 591138 microsec
+Path Length: 15
+Path:  URDRDLULDRRUULL
+
+------------------------------
+
+Running IDS on 5109
+Total nodes visited: 12563750
+Total time taken: 94 sec 688924 microsec
+Path Length: 15
+Path:  URRDDLULDRRUULL
+
+------------------------------
+
+Running IDS on 5115
+Total nodes visited: 10653844
+Total time taken: 80 sec 237525 microsec
+Path Length: 15
+Path:  DLURULDLDRRUULL
+
+------------------------------
+
+Running IDS on 5120
+Total nodes visited: 7807709
+Total time taken: 58 sec 862688 microsec
+Path Length: 15
+Path:  RDRUULDLDRRUULL
+
+------------------------------
+
+Running IDS on 5123
+Total nodes visited: 6609337
+Total time taken: 50 sec 128006 microsec
+Path Length: 15
+Path:  RDLLURDLDRRUULL
+
+------------------------------
+
+Running IDS on 5126
+Total nodes visited: 12839937
+Total time taken: 96 sec 404309 microsec
+Path Length: 15
+Path:  ULLDRULDDRRUULL
+
+------------------------------
+
+Running IDS on 5127
+Total nodes visited: 10504047
+Total time taken: 79 sec 43744 microsec
+Path Length: 15
+Path:  DLLUURDLDRRUULL
+
+------------------------------
+
+Running IDS on 5130
+Total nodes visited: 12900792
+Total time taken: 97 sec 327872 microsec
+Path Length: 15
+Path:  DDLUURDLDRRUULL
+
+------------------------------
+
+Running h1 on 4767
+Total nodes visited: 415
+Total time taken: 0 sec 16954 microsec
+Path Length: 15
+Path:  DLLURRDLLURRULL
+
+------------------------------
+
+Running h1 on 4768
+Total nodes visited: 463
+Total time taken: 0 sec 17953 microsec
+Path Length: 15
+Path:  LDLURRDLLURRULL
+
+------------------------------
+
+Running h1 on 4771
+Total nodes visited: 389
+Total time taken: 0 sec 15958 microsec
+Path Length: 15
+Path:  ULLDRRDLLURRULL
+
+------------------------------
+
+Running h1 on 4773
+Total nodes visited: 383
+Total time taken: 0 sec 15957 microsec
+Path Length: 15
+Path:  RULDRRDLLURRULL
+
+------------------------------
+
+Running h1 on 4775
+Total nodes visited: 528
+Total time taken: 0 sec 21913 microsec
+Path Length: 15
+Path:  RDLDRUULDDLURUL
+
+------------------------------
+
+Running h1 on 4778
+Total nodes visited: 510
+Total time taken: 0 sec 20940 microsec
+Path Length: 15
+Path:  DLDRURDLLURRULL
+
+------------------------------
+
+Running h1 on 4780
+Total nodes visited: 456
+Total time taken: 0 sec 19946 microsec
+Path Length: 15
+Path:  RRULDRDLLURRULL
+
+------------------------------
+
+Running h1 on 4784
+Total nodes visited: 440
+Total time taken: 0 sec 17940 microsec
+Path Length: 15
+Path:  DLULURDDLURRULL
+
+------------------------------
+
+Running h1 on 4789
+Total nodes visited: 541
+Total time taken: 0 sec 22937 microsec
+Path Length: 15
+Path:  ULURRDDLLURRULL
+
+------------------------------
+
+Running h1 on 4793
+Total nodes visited: 527
+Total time taken: 0 sec 21943 microsec
+Path Length: 15
+Path:  LURURDDLLURRULL
+
+------------------------------
+
+Running h1 on 4798
+Total nodes visited: 583
+Total time taken: 0 sec 22938 microsec
+Path Length: 15
+Path:  ULDRRUULDDLURUL
+
+------------------------------
+
+Running h1 on 4800
+Total nodes visited: 508
+Total time taken: 0 sec 21917 microsec
+Path Length: 15
+Path:  LDDRRUULDDLURUL
+
+------------------------------
+
+Running h1 on 5108
+Total nodes visited: 530
+Total time taken: 0 sec 21913 microsec
+Path Length: 15
+Path:  URDRDLULDRRUULL
+
+------------------------------
+
+Running h1 on 5109
+Total nodes visited: 646
+Total time taken: 0 sec 27925 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running h1 on 5115
+Total nodes visited: 416
+Total time taken: 0 sec 16954 microsec
+Path Length: 15
+Path:  DLURULDLDRRUULL
+
+------------------------------
+
+Running h1 on 5120
+Total nodes visited: 366
+Total time taken: 0 sec 14959 microsec
+Path Length: 15
+Path:  RDRUULDLDRRUULL
+
+------------------------------
+
+Running h1 on 5123
+Total nodes visited: 487
+Total time taken: 0 sec 19946 microsec
+Path Length: 15
+Path:  RDLLURDLDRRUULL
+
+------------------------------
+
+Running h1 on 5126
+Total nodes visited: 460
+Total time taken: 0 sec 17979 microsec
+Path Length: 15
+Path:  ULLDRULDDRRUULL
+
+------------------------------
+
+Running h1 on 5127
+Total nodes visited: 659
+Total time taken: 0 sec 26957 microsec
+Path Length: 15
+Path:  DLLUURDLDRRUULL
+
+------------------------------
+
+Running h1 on 5130
+Total nodes visited: 556
+Total time taken: 0 sec 21944 microsec
+Path Length: 15
+Path:  DDLUURDLDRRUULL
+
+------------------------------
+
+Running h2 on 4767
+Total nodes visited: 52
+Total time taken: 0 sec 2992 microsec
+Path Length: 15
+Path:  DLLURRDLLURRULL
+
+------------------------------
+
+Running h2 on 4768
+Total nodes visited: 95
+Total time taken: 0 sec 4986 microsec
+Path Length: 15
+Path:  LDLURRDLLURRULL
+
+------------------------------
+
+Running h2 on 4771
+Total nodes visited: 33
+Total time taken: 0 sec 1997 microsec
+Path Length: 15
+Path:  ULLDRRDLLURRULL
+
+------------------------------
+
+Running h2 on 4773
+Total nodes visited: 35
+Total time taken: 0 sec 2991 microsec
+Path Length: 15
+Path:  RULDRRDLLURRULL
+
+------------------------------
+
+Running h2 on 4775
+Total nodes visited: 108
+Total time taken: 0 sec 5985 microsec
+Path Length: 15
+Path:  RDLDRUULDDLURUL
+
+------------------------------
+
+Running h2 on 4778
+Total nodes visited: 88
+Total time taken: 0 sec 4989 microsec
+Path Length: 15
+Path:  DLDRURDLLURRULL
+
+------------------------------
+
+Running h2 on 4780
+Total nodes visited: 60
+Total time taken: 0 sec 3989 microsec
+Path Length: 15
+Path:  RRULDRDLLURRULL
+
+------------------------------
+
+Running h2 on 4784
+Total nodes visited: 74
+Total time taken: 0 sec 4986 microsec
+Path Length: 15
+Path:  DLULURDDLURRULL
+
+------------------------------
+
+Running h2 on 4789
+Total nodes visited: 168
+Total time taken: 0 sec 9973 microsec
+Path Length: 15
+Path:  ULURRDDLLURRULL
+
+------------------------------
+
+Running h2 on 4793
+Total nodes visited: 125
+Total time taken: 0 sec 8006 microsec
+Path Length: 15
+Path:  LURURDDLLURRULL
+
+------------------------------
+
+Running h2 on 4798
+Total nodes visited: 167
+Total time taken: 0 sec 10007 microsec
+Path Length: 15
+Path:  ULDRRUULDDLURUL
+
+------------------------------
+
+Running h2 on 4800
+Total nodes visited: 109
+Total time taken: 0 sec 6983 microsec
+Path Length: 15
+Path:  LDDRRUULDDLURUL
+
+------------------------------
+
+Running h2 on 5108
+Total nodes visited: 161
+Total time taken: 0 sec 9003 microsec
+Path Length: 15
+Path:  URDRDLULDRRUULL
+
+------------------------------
+
+Running h2 on 5109
+Total nodes visited: 265
+Total time taken: 0 sec 14929 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running h2 on 5115
+Total nodes visited: 80
+Total time taken: 0 sec 3991 microsec
+Path Length: 15
+Path:  DLURULDLDRRUULL
+
+------------------------------
+
+Running h2 on 5120
+Total nodes visited: 38
+Total time taken: 0 sec 1995 microsec
+Path Length: 15
+Path:  RDRUULDLDRRUULL
+
+------------------------------
+
+Running h2 on 5123
+Total nodes visited: 119
+Total time taken: 0 sec 6981 microsec
+Path Length: 15
+Path:  RDLLURDLDRRUULL
+
+------------------------------
+
+Running h2 on 5126
+Total nodes visited: 76
+Total time taken: 0 sec 4987 microsec
+Path Length: 15
+Path:  ULDLURDLDRRUULL
+
+------------------------------
+
+Running h2 on 5127
+Total nodes visited: 272
+Total time taken: 0 sec 15928 microsec
+Path Length: 15
+Path:  DLLUURDLDRRUULL
+
+------------------------------
+
+Running h2 on 5130
+Total nodes visited: 163
+Total time taken: 0 sec 8976 microsec
+Path Length: 15
+Path:  DDLUURDLDRRUULL
+
+------------------------------
+
+Running h3 on 4767
+Total nodes visited: 62
+Total time taken: 0 sec 3990 microsec
+Path Length: 15
+Path:  DLLURRDLLURRULL
+
+------------------------------
+
+Running h3 on 4768
+Total nodes visited: 101
+Total time taken: 0 sec 5983 microsec
+Path Length: 15
+Path:  LDLURRDLLURRULL
+
+------------------------------
+
+Running h3 on 4771
+Total nodes visited: 43
+Total time taken: 0 sec 3019 microsec
+Path Length: 15
+Path:  ULLDRRDLLURRULL
+
+------------------------------
+
+Running h3 on 4773
+Total nodes visited: 40
+Total time taken: 0 sec 2022 microsec
+Path Length: 15
+Path:  RULDRRDLLURRULL
+
+------------------------------
+
+Running h3 on 4775
+Total nodes visited: 121
+Total time taken: 0 sec 8005 microsec
+Path Length: 15
+Path:  RDLDRUULDDLURUL
+
+------------------------------
+
+Running h3 on 4778
+Total nodes visited: 104
+Total time taken: 0 sec 6012 microsec
+Path Length: 15
+Path:  DLDRURDLLURRULL
+
+------------------------------
+
+Running h3 on 4780
+Total nodes visited: 81
+Total time taken: 0 sec 5015 microsec
+Path Length: 15
+Path:  RRULDRDLLURRULL
+
+------------------------------
+
+Running h3 on 4784
+Total nodes visited: 84
+Total time taken: 0 sec 4987 microsec
+Path Length: 15
+Path:  DLULURDDLURRULL
+
+------------------------------
+
+Running h3 on 4789
+Total nodes visited: 177
+Total time taken: 0 sec 10999 microsec
+Path Length: 15
+Path:  ULURRDDLLURRULL
+
+------------------------------
+
+Running h3 on 4793
+Total nodes visited: 132
+Total time taken: 0 sec 8006 microsec
+Path Length: 15
+Path:  LURURDDLLURRULL
+
+------------------------------
+
+Running h3 on 4798
+Total nodes visited: 191
+Total time taken: 0 sec 11940 microsec
+Path Length: 15
+Path:  ULDRRUULDDLURUL
+
+------------------------------
+
+Running h3 on 4800
+Total nodes visited: 122
+Total time taken: 0 sec 7978 microsec
+Path Length: 15
+Path:  LDDRRUULDDLURUL
+
+------------------------------
+
+Running h3 on 5108
+Total nodes visited: 172
+Total time taken: 0 sec 9971 microsec
+Path Length: 15
+Path:  URDRDLULDRRUULL
+
+------------------------------
+
+Running h3 on 5109
+Total nodes visited: 276
+Total time taken: 0 sec 16959 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running h3 on 5115
+Total nodes visited: 84
+Total time taken: 0 sec 4986 microsec
+Path Length: 15
+Path:  DLURULDLDRRUULL
+
+------------------------------
+
+Running h3 on 5120
+Total nodes visited: 43
+Total time taken: 0 sec 2021 microsec
+Path Length: 15
+Path:  RDRUULDLDRRUULL
+
+------------------------------
+
+Running h3 on 5123
+Total nodes visited: 129
+Total time taken: 0 sec 6981 microsec
+Path Length: 15
+Path:  RDLLURDLDRRUULL
+
+------------------------------
+
+Running h3 on 5126
+Total nodes visited: 88
+Total time taken: 0 sec 5978 microsec
+Path Length: 15
+Path:  ULLDRULDDRRUULL
+
+------------------------------
+
+Running h3 on 5127
+Total nodes visited: 277
+Total time taken: 0 sec 16982 microsec
+Path Length: 15
+Path:  DLLUURDLDRRUULL
+
+------------------------------
+
+Running h3 on 5130
+Total nodes visited: 176
+Total time taken: 0 sec 10970 microsec
+Path Length: 15
+Path:  DDLUURDLDRRUULL
+
+------------------------------
+==============================
+
+Running BFS on 131248
+Total nodes visited: 229422
+Total time taken: 4 sec 310478 microsec
+Path Length: 24
+Path:  RRUULDRDLULURDRULLDDRUUL
+
+------------------------------
+
+Running BFS on 131256
+Total nodes visited: 263658
+Total time taken: 5 sec 49523 microsec
+Path Length: 24
+Path:  URDRULLURRDLLDRUULDDRUUL
+
+------------------------------
+
+Running BFS on 131264
+Total nodes visited: 225697
+Total time taken: 4 sec 261609 microsec
+Path Length: 24
+Path:  RRULURDLULDDRURULLDDRUUL
+
+------------------------------
+
+Running BFS on 131271
+Total nodes visited: 304589
+Total time taken: 5 sec 763593 microsec
+Path Length: 24
+Path:  DLURDRULULDRURDLULDDRULU
+
+------------------------------
+
+Running BFS on 131274
+Total nodes visited: 228697
+Total time taken: 4 sec 323473 microsec
+Path Length: 24
+Path:  RRUULLDDRRULURDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131279
+Total nodes visited: 235661
+Total time taken: 4 sec 406221 microsec
+Path Length: 24
+Path:  LURULLDRDRULURDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131286
+Total nodes visited: 290600
+Total time taken: 5 sec 461401 microsec
+Path Length: 24
+Path:  DDLUULDDRULURDRULLDDRUUL
+
+------------------------------
+
+Running BFS on 131304
+Total nodes visited: 229407
+Total time taken: 4 sec 359345 microsec
+Path Length: 24
+Path:  RRUULDRDLULURRDDLUURDLLU
+
+------------------------------
+
+Running BFS on 131311
+Total nodes visited: 266361
+Total time taken: 5 sec 107344 microsec
+Path Length: 24
+Path:  RULLDRDRUULDDRUULLDDRUUL
+
+------------------------------
+
+Running BFS on 131324
+Total nodes visited: 277011
+Total time taken: 5 sec 267918 microsec
+Path Length: 24
+Path:  DRULDDRRULLDRRULULDDRUUL
+
+------------------------------
+
+Running BFS on 131345
+Total nodes visited: 272016
+Total time taken: 5 sec 172174 microsec
+Path Length: 24
+Path:  ULURDLDRULULDDRUULDDRUUL
+
+------------------------------
+
+Running BFS on 131370
+Total nodes visited: 327124
+Total time taken: 6 sec 82768 microsec
+Path Length: 24
+Path:  ULDDRURDLULURRDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131374
+Total nodes visited: 227409
+Total time taken: 4 sec 291530 microsec
+Path Length: 24
+Path:  RRULULDDRULURRDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131378
+Total nodes visited: 253900
+Total time taken: 4 sec 769224 microsec
+Path Length: 24
+Path:  RDDLUURRDLULDRDLUURDDLUU
+
+------------------------------
+
+Running BFS on 131394
+Total nodes visited: 288450
+Total time taken: 5 sec 452422 microsec
+Path Length: 24
+Path:  DDRUURDLULDRURDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131400
+Total nodes visited: 260543
+Total time taken: 4 sec 994656 microsec
+Path Length: 24
+Path:  ULLURRDLULDRDLURULDRDLUU
+
+------------------------------
+
+Running BFS on 131406
+Total nodes visited: 289610
+Total time taken: 5 sec 427492 microsec
+Path Length: 24
+Path:  UULDDLURRDLUURDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131425
+Total nodes visited: 231359
+Total time taken: 4 sec 378297 microsec
+Path Length: 24
+Path:  LLDDRUURDDLUURDLULDDRUUL
+
+------------------------------
+
+Running BFS on 131449
+Total nodes visited: 267152
+Total time taken: 5 sec 96406 microsec
+Path Length: 24
+Path:  DRDLURRDLLURRDLUULDDRUUL
+
+------------------------------
+
+Running BFS on 131455
+Total nodes visited: 227063
+Total time taken: 4 sec 255616 microsec
+Path Length: 24
+Path:  RRULULDDRRULDLURULDDRUUL
+
+------------------------------
+
+Running IDS on 131248
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131256
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131264
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131271
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131274
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131279
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131286
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131304
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131311
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131324
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131345
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131370
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131374
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131378
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131394
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131400
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131406
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131425
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131449
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+
+Running IDS on 131455
+Total nodes visited: <<?>>
+Total time taken: >15 min
+Path Length: Timed out.
+Path: Timed out.
+
+------------------------------
+==============================
+
+Running h1 on 131248
+Total nodes visited: 47413
+Total time taken: 2 sec 12524 microsec
+Path Length: 24
+Path:  RURDLULDRRULURDLULDRDLUU
+
+------------------------------
+
+Running h1 on 131256
+Total nodes visited: 41900
+Total time taken: 1 sec 810452 microsec
+Path Length: 24
+Path:  URDRULLURRDLLDRUULDDRUUL
+
+------------------------------
+
+Running h1 on 131264
+Total nodes visited: 40511
+Total time taken: 1 sec 718770 microsec
+Path Length: 24
+Path:  RRULURDLULDDRURULLDDRUUL
+
+------------------------------
+
+Running h1 on 131271
+Total nodes visited: 53833
+Total time taken: 2 sec 305313 microsec
+Path Length: 24
+Path:  DLUURDDRULLURRDLULDDRULU
+
+------------------------------
+
+Running h1 on 131274
+Total nodes visited: 38273
+Total time taken: 1 sec 595736 microsec
+Path Length: 24
+Path:  RRUULLDDRRULURDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131279
+Total nodes visited: 44739
+Total time taken: 1 sec 913965 microsec
+Path Length: 24
+Path:  LURULLDRDRULURDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131286
+Total nodes visited: 45603
+Total time taken: 1 sec 922750 microsec
+Path Length: 24
+Path:  DDLUULDDRULURDRULLDDRUUL
+
+------------------------------
+
+Running h1 on 131304
+Total nodes visited: 48666
+Total time taken: 2 sec 59362 microsec
+Path Length: 24
+Path:  URRDLLURRULDDRUULLDDRUUL
+
+------------------------------
+
+Running h1 on 131311
+Total nodes visited: 57695
+Total time taken: 2 sec 431190 microsec
+Path Length: 24
+Path:  RULLDRDRUULDDRUULLDDRUUL
+
+------------------------------
+
+Running h1 on 131324
+Total nodes visited: 41790
+Total time taken: 1 sec 806605 microsec
+Path Length: 24
+Path:  DRULDDRRULLDRRULULDDRUUL
+
+------------------------------
+
+Running h1 on 131345
+Total nodes visited: 38985
+Total time taken: 1 sec 626020 microsec
+Path Length: 24
+Path:  ULURDLDRULULDDRUULDDRUUL
+
+------------------------------
+
+Running h1 on 131370
+Total nodes visited: 53972
+Total time taken: 2 sec 294581 microsec
+Path Length: 24
+Path:  ULDDRURDLULURRDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131374
+Total nodes visited: 42087
+Total time taken: 1 sec 761688 microsec
+Path Length: 24
+Path:  RRULULDDRULURRDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131378
+Total nodes visited: 48876
+Total time taken: 2 sec 72077 microsec
+Path Length: 24
+Path:  RDDLUURRDLULDRDLUURDDLUU
+
+------------------------------
+
+Running h1 on 131394
+Total nodes visited: 51839
+Total time taken: 2 sec 252583 microsec
+Path Length: 24
+Path:  DDRUURDLULDRURDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131400
+Total nodes visited: 46018
+Total time taken: 1 sec 957884 microsec
+Path Length: 24
+Path:  ULLURRDLULDRDLURULDRDLUU
+
+------------------------------
+
+Running h1 on 131406
+Total nodes visited: 42475
+Total time taken: 1 sec 809533 microsec
+Path Length: 24
+Path:  UULDDLURRDLUURDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131425
+Total nodes visited: 43190
+Total time taken: 1 sec 829052 microsec
+Path Length: 24
+Path:  LLDDRUURDDLUURDLULDDRUUL
+
+------------------------------
+
+Running h1 on 131449
+Total nodes visited: 46541
+Total time taken: 1 sec 969596 microsec
+Path Length: 24
+Path:  DDRRULLDRRULDLURULDDRUUL
+
+------------------------------
+
+Running h1 on 131455
+Total nodes visited: 49831
+Total time taken: 2 sec 157968 microsec
+Path Length: 24
+Path:  RRULULDDRRULDLURULDDRUUL
+
+------------------------------
+==============================
+
+Running h2 on 131248
+Total nodes visited: 3434
+Total time taken: 0 sec 187393 microsec
+Path Length: 24
+Path:  RULDRRUULDRDLURULLDDRULU
+
+------------------------------
+
+Running h2 on 131256
+Total nodes visited: 1361
+Total time taken: 0 sec 76155 microsec
+Path Length: 24
+Path:  URDRULLURRDLLDRUULDDRUUL
+
+------------------------------
+
+Running h2 on 131264
+Total nodes visited: 928
+Total time taken: 0 sec 49775 microsec
+Path Length: 24
+Path:  RRULURDLULDDRURULLDDRUUL
+
+------------------------------
+
+Running h2 on 131271
+Total nodes visited: 1609
+Total time taken: 0 sec 86891 microsec
+Path Length: 24
+Path:  DLUURDDRULLURRDLULDDRULU
+
+------------------------------
+
+Running h2 on 131274
+Total nodes visited: 719
+Total time taken: 0 sec 40964 microsec
+Path Length: 24
+Path:  RRUULLDDRRULURDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131279
+Total nodes visited: 2481
+Total time taken: 0 sec 140515 microsec
+Path Length: 24
+Path:  LURULLDRDRULURDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131286
+Total nodes visited: 2253
+Total time taken: 0 sec 126880 microsec
+Path Length: 24
+Path:  DDLUULDDRULURDRULLDDRUUL
+
+------------------------------
+
+Running h2 on 131304
+Total nodes visited: 4497
+Total time taken: 0 sec 247905 microsec
+Path Length: 24
+Path:  RRUULDRDLULURRDDLUURDLLU
+
+------------------------------
+
+Running h2 on 131311
+Total nodes visited: 2752
+Total time taken: 0 sec 149335 microsec
+Path Length: 24
+Path:  URDLDRULLDRUULDRURDLDLUU
+
+------------------------------
+
+Running h2 on 131324
+Total nodes visited: 995
+Total time taken: 0 sec 52734 microsec
+Path Length: 24
+Path:  DRULDDRRULLDRRULULDDRUUL
+
+------------------------------
+
+Running h2 on 131345
+Total nodes visited: 591
+Total time taken: 0 sec 33159 microsec
+Path Length: 24
+Path:  ULURDLDRULULDDRUULDDRUUL
+
+------------------------------
+
+Running h2 on 131370
+Total nodes visited: 1575
+Total time taken: 0 sec 85891 microsec
+Path Length: 24
+Path:  ULDDRURDLULURRDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131374
+Total nodes visited: 1623
+Total time taken: 0 sec 88815 microsec
+Path Length: 24
+Path:  RRULULDDRULURRDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131378
+Total nodes visited: 3851
+Total time taken: 0 sec 212743 microsec
+Path Length: 24
+Path:  RDDLUURRDLULDRDLUURDDLUU
+
+------------------------------
+
+Running h2 on 131394
+Total nodes visited: 5521
+Total time taken: 0 sec 303511 microsec
+Path Length: 24
+Path:  DDRUURDLULDRURDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131400
+Total nodes visited: 2964
+Total time taken: 0 sec 162017 microsec
+Path Length: 24
+Path:  ULLURRDLULDRDLURULDRDLUU
+
+------------------------------
+
+Running h2 on 131406
+Total nodes visited: 2208
+Total time taken: 0 sec 121026 microsec
+Path Length: 24
+Path:  UULDDLURRDLUURDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131425
+Total nodes visited: 2086
+Total time taken: 0 sec 113213 microsec
+Path Length: 24
+Path:  LLDDRUURDDLUURDLULDDRUUL
+
+------------------------------
+
+Running h2 on 131449
+Total nodes visited: 2779
+Total time taken: 0 sec 156166 microsec
+Path Length: 24
+Path:  DDRRULLDRRULDLURULDDRUUL
+
+------------------------------
+
+Running h2 on 131455
+Total nodes visited: 3870
+Total time taken: 0 sec 210816 microsec
+Path Length: 24
+Path:  RRULULDDRRULDLURULDDRUUL
+
+------------------------------
+==============================
+
+Running h3 on 131248
+Total nodes visited: 5342
+Total time taken: 0 sec 311344 microsec
+Path Length: 24
+Path:  RURDLULDRRULURDLULDRDLUU
+
+------------------------------
+
+Running h3 on 131256
+Total nodes visited: 2677
+Total time taken: 0 sec 157107 microsec
+Path Length: 24
+Path:  URDRULLURRDLLDRUULDDRUUL
+
+------------------------------
+
+Running h3 on 131264
+Total nodes visited: 2156
+Total time taken: 0 sec 124927 microsec
+Path Length: 24
+Path:  RRUULDRULLDDRURULLDDRUUL
+
+------------------------------
+
+Running h3 on 131271
+Total nodes visited: 3493
+Total time taken: 0 sec 211791 microsec
+Path Length: 24
+Path:  DLURULDRDRUULDRULLDDRULU
+
+------------------------------
+
+Running h3 on 131274
+Total nodes visited: 1621
+Total time taken: 0 sec 94647 microsec
+Path Length: 24
+Path:  RRUULLDDRRUULDRULLDDRUUL
+
+------------------------------
+
+Running h3 on 131279
+Total nodes visited: 3976
+Total time taken: 0 sec 234212 microsec
+Path Length: 24
+Path:  LURULLDRDRUULDRULLDDRUUL
+
+------------------------------
+
+Running h3 on 131286
+Total nodes visited: 4013
+Total time taken: 0 sec 236168 microsec
+Path Length: 24
+Path:  DDLUULDDRULURDRULLDDRUUL
+
+------------------------------
+
+Running h3 on 131304
+Total nodes visited: 5894
+Total time taken: 0 sec 343524 microsec
+Path Length: 24
+Path:  URRDLLURRULDDRUULLDDRUUL
+
+------------------------------
+
+Running h3 on 131311
+Total nodes visited: 4791
+Total time taken: 0 sec 275232 microsec
+Path Length: 24
+Path:  RULLDRDRUULDDRUULLDDRUUL
+
+------------------------------
+
+Running h3 on 131324
+Total nodes visited: 2184
+Total time taken: 0 sec 128835 microsec
+Path Length: 24
+Path:  DRULDDRRULLDRRULULDDRUUL
+
+------------------------------
+
+Running h3 on 131345
+Total nodes visited: 1515
+Total time taken: 0 sec 93695 microsec
+Path Length: 24
+Path:  ULURDLDRULULDDRUULDDRUUL
+
+------------------------------
+
+Running h3 on 131370
+Total nodes visited: 3014
+Total time taken: 0 sec 176627 microsec
+Path Length: 24
+Path:  ULDDRURDLULURRDLULDDRUUL
+
+------------------------------
+
+Running h3 on 131374
+Total nodes visited: 2750
+Total time taken: 0 sec 163998 microsec
+Path Length: 24
+Path:  RRULULDDRULURRDLULDDRUUL
+
+------------------------------
+
+Running h3 on 131378
+Total nodes visited: 5384
+Total time taken: 0 sec 318151 microsec
+Path Length: 24
+Path:  DDRUULDDRULURRDLULDDRUUL
+
+------------------------------
+
+Running h3 on 131394
+Total nodes visited: 7302
+Total time taken: 0 sec 428491 microsec
+Path Length: 24
+Path:  DDRUURDLULDRURDLULDDRUUL
+
+------------------------------
+
+Running h3 on 131400
+Total nodes visited: 4644
+Total time taken: 0 sec 277212 microsec
+Path Length: 24
+Path:  ULLURRDLULDRDLURULDRDLUU
+
+------------------------------
+
+Running h3 on 131406
+Total nodes visited: 3419
+Total time taken: 0 sec 200052 microsec
+Path Length: 24
+Path:  UULDDLURRDLUURDLULDDRUUL
+
+------------------------------
+
+Running h3 on 131425
+Total nodes visited: 3325
+Total time taken: 0 sec 191323 microsec
+Path Length: 24
+Path:  LLDDRUURDDLUURDLULDDRUUL
+
+------------------------------
+
+Running h3 on 131449
+Total nodes visited: 4192
+Total time taken: 0 sec 248854 microsec
+Path Length: 24
+Path:  DDRRULLDRRULDLURULDDRUUL
+
+------------------------------
+
+Running h3 on 131455
+Total nodes visited: 5636
+Total time taken: 0 sec 329915 microsec
+Path Length: 24
+Path:  RRULULDDRRULDLURULDDRUUL
+
+------------------------------
+
+Running IDS on 236
+Total nodes visited: 3479
+Total time taken: 0 sec 33196 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running IDS on 236
+Total nodes visited: 3479
+Total time taken: 0 sec 30255 microsec
+Path Length: 8
+Path:  LLURDLUU
+
+------------------------------
+
+Running h1 on 5109
+Total nodes visited: 646
+Total time taken: 0 sec 28304 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running BFS on 5109
+Total nodes visited: 9508
+Total time taken: 0 sec 162966 microsec
+Path Length: 15
+Path:  URRDDLULDRRUULL
+
+------------------------------
+
+Running h1 on 5109
+Total nodes visited: 646
+Total time taken: 0 sec 27327 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running h2 on 5109
+Total nodes visited: 265
+Total time taken: 0 sec 14667 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running h3 on 5109
+Total nodes visited: 276
+Total time taken: 0 sec 15618 microsec
+Path Length: 15
+Path:  URDLDRUULDRDLUU
+
+------------------------------
+
+Running IDS on 5109
+Total nodes visited: 12563750
+Total time taken: 95 sec 501994 microsec
+Path Length: 15
+Path:  URRDDLULDRRUULL
